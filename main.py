@@ -1,4 +1,6 @@
 a = int(input("Введите первое число: "))
 b = int(input("Введите второе число: "))
 
-print(f"Вы ввели: {a} и {b}")
+# 3
+result = a + b
+print(f"Сумма:", result)
