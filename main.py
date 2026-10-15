@@ -3,4 +3,4 @@ b = int(input("Введите второе число: "))
 
 # 3
 result = a + b
-print(f"Сумма:", result)
+print("Сумма:", result)
